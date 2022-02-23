@@ -23,5 +23,5 @@ pip install -U tensorflow-gpu
 ## Running the notebooks
 
 1. [Process.ipynb](https://github.com/LouisFaure/Adrenal5HTP_paper/blob/main/Process.ipynb) scRNAseq data pre-processing, clustering and embedding generation.
-2. [BRIE2.ipynb](https://github.com/LouisFaure/Adrenal5HTP_paper/blob/main/BRIE2.ipynb) running BRIE2 pipeline.
+2. [BRIE2.ipynb](https://github.com/LouisFaure/Adrenal5HTP_paper/blob/main/BRIE2.ipynb) running BRIE2 pipeline, requires BAM files generated from alignment.
 3. [Plots.ipynb](https://github.com/LouisFaure/Adrenal5HTP_paper/blob/main/Plots.ipynb) to generate plots for the manuscript.
