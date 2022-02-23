@@ -1,8 +1,7 @@
 # Adrenal5HTP
 
-## Getting the required data
-
-
+Raw and processed data is available on the following GEO Series:
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180861
 
 ## Environment setup
 
